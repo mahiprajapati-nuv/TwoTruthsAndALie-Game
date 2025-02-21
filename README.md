@@ -9,6 +9,6 @@
 -  Simple & Accessible – Play anywhere, no setup required.
 -  Flexible Usage – Perfect for social gatherings, icebreakers, and team-building.
 
- Tech Uesd
+ Tech Used
 - Frontend: Flutter  
 - Backend: Firebase (Realtime Database & Authentication) 
